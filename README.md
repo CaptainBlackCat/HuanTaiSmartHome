@@ -6,6 +6,8 @@
 
 ## 环泰智慧社区APP
 
+> 码字不易，喜欢的大佬给个star吧
+
 ----
 + Author : 中国男人的骄傲
 + E-mail：luojie@hnu.edu.cn
